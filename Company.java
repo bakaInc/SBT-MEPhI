@@ -20,4 +20,9 @@ import java.util.List;
         this.employeeList.add(employee);
         employee.setCompany(name);
 	}
+    }
+	
+     public void removeEmployee(Person employee) {
+        if (employeeList != null) this.employeeList.remove(employee);
+    }
 }
