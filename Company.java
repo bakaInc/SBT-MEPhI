@@ -26,3 +26,6 @@ import java.util.List;
         if (employeeList != null) this.employeeList.remove(employee);
     }
 }
+		employee.setCompany(null);
+	}
+}
