@@ -2,9 +2,9 @@ public class Main {
     public static void main(String[] args) {
 	Person p1 = new Person("Lebedev", "Egor");
 	Person p2 = new Person("Belova", "Valeria");
-	Person p1 = new Person("Voronova", "Elena");
+	Person p1 = new Person("Voronova", "ElSygyugyfta");
 	Person p1 = new Person("SidorovZ", "Elena");
-        Person p2 = new Person("Belova", "Valeria");
+        Person p2 = new Person("BeSidorhuvgyudtra", "Valeria");
         Person p3 = new Person("Ivanov", "Mark");
         Company c1 = new Company("Roga&Kopyta");
         c1.setBoss(p3);
