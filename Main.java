@@ -3,6 +3,7 @@ public class Main {
 	Person p1 = new Person("Lebedev", "Egor");
 	Person p2 = new Person("Belova", "Valeria");
 	Person p1 = new Person("Voronova", "Elena");
+	Person p1 = new Person("SidorovZ", "Elena");
         Person p2 = new Person("Belova", "Valeria");
         Person p3 = new Person("Ivanov", "Mark");
         Company c1 = new Company("Roga&Kopyta");
